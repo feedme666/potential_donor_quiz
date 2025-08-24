@@ -1,0 +1,50 @@
+body {
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+.App {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-card {
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.answer-section {
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.answer-section.correct {
+  background-color: #e6fffa;
+  border: 1px solid #38a169;
+}
+
+.answer-section.incorrect {
+  background-color: #fff5f5;
+  border: 1px solid #e53e3e;
+}
+
+.result-icon {
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.results-table {
+  margin-top: 20px;
+}
+
+.btn-retry {
+  cursor: pointer;
+  color: #007bff;
+  text-decoration: underline;
+}
