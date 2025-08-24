@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/potential-donor-quiz/static/css/main.47f683f0.css",
-    "main.js": "/potential-donor-quiz/static/js/main.50cc49ab.js",
-    "index.html": "/potential-donor-quiz/index.html",
-    "main.47f683f0.css.map": "/potential-donor-quiz/static/css/main.47f683f0.css.map",
-    "main.50cc49ab.js.map": "/potential-donor-quiz/static/js/main.50cc49ab.js.map"
+    "main.css": "/potential_donor_quiz/static/css/main.47f683f0.css",
+    "main.js": "/potential_donor_quiz/static/js/main.50cc49ab.js",
+    "index.html": "/potential_donor_quiz/index.html",
+    "main.47f683f0.css.map": "/potential_donor_quiz/static/css/main.47f683f0.css.map",
+    "main.50cc49ab.js.map": "/potential_donor_quiz/static/js/main.50cc49ab.js.map"
   },
   "entrypoints": [
     "static/css/main.47f683f0.css",
