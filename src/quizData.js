@@ -1,3 +1,8 @@
+// Content License Notice
+// The content (questions, answers, explanations) in this file is NOT covered by the repository's MIT license.
+// Copyright (c) 2025 一般社団法人 日本集中治療医学会 — All Rights Reserved.
+// See CONTENT_LICENSE for details.
+
 const quizData = [
   {
     id: 1,

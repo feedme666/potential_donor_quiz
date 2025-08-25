@@ -1,0 +1,20 @@
+Content License — All Rights Reserved
+
+Copyright (c) 2025, 一般社団法人 日本集中治療医学会
+All rights reserved.
+
+Scope
+- This notice applies to all non-code content in this repository, including but not limited to:
+  - `src/quizData.js` and any other question/answer text, explanations, and educational materials
+  - files under `data/` and non-code assets under `public/` (images, text, PDFs, etc.)
+
+Permissions
+- Viewing the content as part of the published website is permitted.
+- Any reproduction, distribution, public display, or modification of the content, in whole or in part, is prohibited without prior written permission from the rights holder.
+
+Code vs. Content
+- The application code is licensed separately under the MIT License (see `LICENSE`).
+- This CONTENT_LICENSE covers only the content described above.
+
+Contact
+- For permissions or inquiries, please contact the rights holder or the repository owner via GitHub.
